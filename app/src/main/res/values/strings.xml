@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlexSloYandexDiskTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="authorizeText">Please authorize in Yandex</string>
+    <string name="empty">Empty folder</string>
+    <string name="authError">Authorization error. access_denied. Please try again. </string>
+    <string name="disk">Disk</string>
+    <string name="exit">Exit</string>
+    <string name="loading">Loading...</string>
+
+</resources>
